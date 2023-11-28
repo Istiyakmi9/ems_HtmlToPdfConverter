@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2o0nbOHVayb8Dr7NMzvTEwvvXNxw2RB/0ZPl2YJuLTk=",
+  "Source": "ems_HtmlToPdfConverter",
+  "BasePath": "_content/ems_HtmlToPdfConverter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
